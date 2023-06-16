@@ -722,7 +722,7 @@
 
   /* Banner Area */
   body, .banner-area, .banner-area div {
-    height: auto;
+    height: 100vh;
   }
 
   .banner-area .content,

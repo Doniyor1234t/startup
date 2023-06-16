@@ -475,8 +475,8 @@
             if( navSticky ){
                 
                 // Set Height Navigation
-                var getHeight = getNav.height();             
-                $(".wrap-sticky").height(getHeight);
+                    // var getHeight = getNav.height();             
+                    // $(".wrap-sticky").height(getHeight);
                 
                 // Windown on scroll
                 var getOffset = $(".wrap-sticky").offset().top;
